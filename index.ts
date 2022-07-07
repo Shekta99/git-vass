@@ -1,3 +1,3 @@
 const number = 1;
 
-const varchar = "message";
+const varchar = "important message";
