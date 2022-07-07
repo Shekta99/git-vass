@@ -1,3 +1,1 @@
-hello() {
-    console.log('hola');
-}
+const algo = 1;
