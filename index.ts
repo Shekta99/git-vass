@@ -1,1 +1,3 @@
-const algo = 1;
+const number = 1;
+
+const varchar = "mensaje";
